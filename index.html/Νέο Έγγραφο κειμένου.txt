@@ -1,0 +1,814 @@
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto">
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20120106063344/http://www.antenna.gr:80/tv/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","http://www.antenna.gr/tv","20120106063344",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+      
+<div class="wrap" id="wrap">
+
+<div id="header" class="header">
+
+<div class="headerLogo">
+<script language="javascript" type="text/javascript">showSWF('/tv/images/cube_2011_W135.swf', 136, 136,'logo',null,'<a href="/tv/"><img src="/tv/images/o_cube.png" width="136" height="136"/></a>');</script><object id="logo" name="logo" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://web.archive.org/web/20120208141545/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="136" height="136"><param name="movie" value="/tv/images/cube_2011_W135.swf"><param name="scale" value="noscale"><param name="wmode" value="transparent"><param name="quality" value="high"><param name="flashvars" value="null"><param name="menu" value="0"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><!--[if !IE]>--><ruffle-object type="application/x-shockwave-flash" id="logo" name="logo" flashvars="null" data="/tv/images/cube_2011_W135.swf" width="136" height="136"><param name="flashvars" value="null"><param name="menu" value="false"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="wmode" value="transparent"></ruffle-object><!--<![endif]--></object>
+</div> 
+    <div class="headerwrapper">
+        <div class="lalign">
+        <div class="datebgL">
+            <div style="padding:9px 0px 0px 10px" class="greytxt font11txt boldfont">Παρασκευή 06/01/2012 <span id="pendule">9:05:15 πμ</span><script>clock();</script></div>
+        </div>
+        <div class="datebgR">&nbsp;</div>
+        <div class="lalign" id="fblike" style="margin:5px 0px 0px 0px">
+            <img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/rss_icon.png"> <a href="https://web.archive.org/web/20120106063344/http://www.facebook.com/Ant1TV#!/pages/ANT1/56484855901?ref=ts" tabindex="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/fb_icon.png"></a>  <a href="https://web.archive.org/web/20120106063344/http://twitter.com/ant1tv" target="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/twitter_icon.png"></a>  <a href="https://web.archive.org/web/20120106063344/http://www.youtube.com/AntennaGR" target="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/YouTube_icon.png"></a>
+            <div id="beFan"><iframe src="//web.archive.org/web/20120106063344/http://www.facebook.com/plugins/like.php?app_id=249811995054946&amp;href=http%3A%2F%2Fwww.facebook.com%2FAnt1TV%23%21%2Fpages%2FANT1%2F56484855901%3Fref%3Dts&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowtransparency="true"></iframe></div>
+        </div>
+        </div>
+        <div id="ctl00_ctl00_headeronair1_contentdiv"><div class="ralign" id="live-plc" xmlns:myobj="urn:ant1"><div class="datebgL"><div style="padding:9px 0px 0px 10px" class="greytxt font11txt boldfont">Τώρα στον ΑΝΤ1: <a class="greytxt" title="ΠΡΩΙΝΟ ΑΝΤ1" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1</a></div></div><div class="datebgR">&nbsp;</div><div style="float:left; margin-top:3px;"><a title="ANT1 TV Live" href="/web/20120106063344/http://www.antenna.gr/webtv/live"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/Live_btn.png"></a></div></div></div>
+
+        <div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div>
+    <div class="ralign">
+        <div class="datebgL"><div style="padding:9px 0px 0px 10px" class="greytxt font11txt boldfont">Δείτε τα Δελτία Ειδήσεων</div></div>
+        <div class="datebgR">&nbsp;</div><div style="float:left; margin-top:3px;"><a title="ANT1 News" href="/web/20120106063344/http://www.antenna.gr/webtv/deltia/"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/news02.png"></a></div>
+    </div>
+        <div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="5"></div>
+        <div class="ralign greytxt boldfont">
+        
+        <a id="login-btn" class="greytxt font12txt" style="cursor: pointer;">Σύνδεση / Login</a> | <a class="greytxt font12txt" href="/web/20120106063344/http://www.antenna.gr/webtv/register">Εγγραφή</a>
+        
+        </div>
+        <div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="5"></div>
+        <div class="menu">
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/tv/shows" name="hover" id="tv"><img id="mnu1" alt="ΕΚΠΟΜΠΕΣ" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/01_Shows.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/tv/schedule" name="hover"><img id="mnu2" alt="ΠΡΟΓΡΑΜΜΑ" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/02_Program.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="https://web.archive.org/web/20120106063344/http://www.ant1online.gr/" name="hover"><img id="mnu3" alt="NEWS" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/03_News.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/webtv/" name="hover" id="webtv"><img id="mnu4" alt="WEBTV" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/04_WebTV.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/webtv/plus" name="hover"><img id="mnu5" alt="WEBTV PLUS" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/05_Plus.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/webtv/archive" name="hover"><img id="mnu6" alt="WEBTV ARCHIVE" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/06_Archive.png"></a></div>
+                <div class="menusep lalign"></div>
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/tv/world" name="hover"><img id="mnu7" alt="ANT1 WORLD" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/07_World.png"></a></div>
+                <div class="menusep lalign"></div>  
+                <div class="menuitem"><a href="/web/20120106063344/http://www.antenna.gr/webtv/search" name="hover"><img id="mnu8" alt="WEBTV SEARCH" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/mainmenu/08_Quest.png"></a></div>
+        </div>
+    </div>   
+</div>   
+<div id="banner728">
+<div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="12"></div>
+<noscript>
+<a title="Adman Banner" href="https://web.archive.org/web/20120106063344/http://adman.antenna.gr/click?webspace=1&amp;dfl=yes"><img src="https://web.archive.org/web/20120106063344im_/http://adman.antenna.gr/banner?webspace=1&amp;dfl=yes&amp;js=no" border="0" width="728" height="90" alt=""/></a><br/>
+</noscript>
+<script language="javascript" type="text/javascript">
+    // <![CDATA[[
+    if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+    document.write('<scr' + 'ipt src="https://web.archive.org/web/20120106063344/http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></' + 'sc' + 'ript>');
+    var now = parseInt((new Date()).getTime());
+    if (!window.admantpid) window.admantpid = now;
+    var rnd = Math.floor(Math.random() * 900000) + 100, cdp = screen.width + "x" + screen.height + "x" + (navigator.appName == "Netscape" ? screen.pixelDepth : screen.colorDepth), burst = "?" + rnd + ":=" + window.admantpid + "@" + cdp + "?";
+    document.write("<scr" + "ipt language=\"Javascript\" src=\"http://adman.antenna.gr/gbanner/?" + now + "|1/728x90" + burst + "/\">");
+    document.write("</" + "sc" + "ript>");
+    // ]]>
+</script><script src="https://web.archive.org/web/20120106063344/http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></script><script language="Javascript" src="https://web.archive.org/web/20120106063344js_/http://adman.antenna.gr/gbanner/?1325831628057|1/728x90?401801:=1325831628057@1536x864x32?/"></template></script>
+<div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="8"></div>
+</div> 
+
+<!--main teasers-->
+<div style="position:relative; left:0px; width:950px; height:495px; overflow:hidden; position:relative;" id="slideTeasers">
+    <div id="ctl00_mainteasers1_ContentDiv"><script language="javascript" type="text/javascript" xmlns:myobj="urn:ant1">
+var teasersArr = {
+  1:{'img':'37a0d972-9104-4963-a93a-881af7d9a133.jpg'},2:{'img':'800e3b21-a197-4add-be0e-b3696b5cd484.jpg'},3:{'img':'d1240b20-9f67-4744-a21e-9fcfd7fc34c8.jpg'},4:{'img':'a7b1fbaa-003d-4e9c-b844-9aaee73381e2.jpg'},5:{'img':'db164012-4ef0-40bb-a173-bfae2fccbced.jpg'},6:{'img':'70e6a16d-fd4e-4011-9e05-b94f57231a52.jpg'},7:{'img':'84597611-08b1-4020-96d6-ac4eb1fb87b0.jpg'},8:{'img':'99bbe436-013f-489b-ac32-d29a247b7fa0.jpg'},9:{'img':'26be4f77-a8be-4417-a40b-d2afa217c11d.jpg'},10:{'img':'93a9e373-e40f-4e01-aead-d6aa5799d79d.jpg'}    
+};
+
+  var t = 10;
+</script><div id="mainTeasersWrap" style="width: 9500px; position: absolute; top: 0px; left: -2850px; z-index: 1;" xmlns:myobj="urn:ant1">
+  <div class="mainTeaserIn" id="in1">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=246141" title="ELI STONE "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/37a0d972-9104-4963-a93a-881af7d9a133.jpg" id="teaserImg1" alt="ELI STONE "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2658">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ELI " style="width: 30px; height: 25px;"><canvas width="52" height="25" style="width: 52px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ELI </cufontext></cufon><cufon class="cufon cufon-canvas" alt="STONE " style="width: 59px; height: 25px;"><canvas width="80" height="25" style="width: 80px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>STONE </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2658"><cufon class="cufon cufon-canvas" alt="Παρασκευή " style="width: 87px; height: 20px;"><canvas width="104" height="20" style="width: 104px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Παρασκευή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="06/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>06/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="00:15" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>00:15</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Η ζωή του κυνικού δικηγόρου Ιλάι Στόουν ανατρέπεται, όταν αρχίζει να έχει παραισθήσεις: βλέπει τον Τζορτζ Μάικλ να του τραγουδάει και νομίζει ότι ο Θεός του στέλνει ένα μήνυμα που πρέπει να το μεταδώσει! </a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=3930c08e-e1eb-4fb6-946f-8f96a0cce43c.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Δείτε το Trailer</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_g8r_h_n_no_z4_a_q%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in2">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=230597" title="ΟΛΙΒΕΡ ΤΟΥΙΣΤ"><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/800e3b21-a197-4add-be0e-b3696b5cd484.jpg" id="teaserImg2" alt="ΟΛΙΒΕΡ ΤΟΥΙΣΤ"></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2654">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΟΛΙΒΕΡ " style="width: 64px; height: 25px;"><canvas width="86" height="25" style="width: 86px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΟΛΙΒΕΡ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΤΟΥΙΣΤ" style="width: 55px; height: 25px;"><canvas width="72" height="25" style="width: 72px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΤΟΥΙΣΤ</cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2654"><cufon class="cufon cufon-canvas" alt=" " style="width: 5px; height: 20px;"><canvas width="21" height="20" style="width: 21px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext> </cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Το κλασικό αριστούργημα του Καρόλου Ντίκενς  γίνεται ένα αξέχαστο κινηματογραφικό έργο, χάρη στη σκηνοθετική μαεστρία του Ρόμαν Πολάνσκι (Όσκαρ σκηνοθεσίας 2002 – «Ο πιανίστας»). </a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=50713b32-4d16-47b0-831a-0d50958a5c53.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Δείτε το Trailer</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=7_rg_m_qok9_b_w0%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+  </div>
+  <div class="mainTeaserIn" id="in3">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=252235" title="ΒΡΑΔΥ     "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/d1240b20-9f67-4744-a21e-9fcfd7fc34c8.jpg" id="teaserImg3" alt="ΒΡΑΔΥ     "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΒΡΑΔΥ " style="width: 57px; height: 25px;"><canvas width="79" height="25" style="width: 79px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΒΡΑΔΥ </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Παρασκευή " style="width: 87px; height: 20px;"><canvas width="104" height="20" style="width: 104px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Παρασκευή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="06/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>06/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="23:15" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>23:15</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Ο Πέτρος Κωστόπουλος και η εκπομπή του «Βράδυ» εκπέμπουν συχνότατα… από τη συχνότητα του ΑΝΤ1! </a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=75130459-531f-4074-b176-314268d48ac0.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=2tpu2w_z_uzv_a%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+  </div>
+  <div class="mainTeaserIn" id="in4">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=221130" title="ΜΕ ΤΟ ΔΕΞΙ"><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/a7b1fbaa-003d-4e9c-b844-9aaee73381e2.jpg" id="teaserImg4" alt="ΜΕ ΤΟ ΔΕΞΙ"></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΜΕ " style="width: 30px; height: 25px;"><canvas width="52" height="25" style="width: 52px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΜΕ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΤΟ " style="width: 25px; height: 25px;"><canvas width="47" height="25" style="width: 47px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΤΟ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΔΕΞΙ" style="width: 38px; height: 25px;"><canvas width="59" height="25" style="width: 59px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΔΕΞΙ</cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Τετάρτη " style="width: 61px; height: 20px;"><canvas width="78" height="20" style="width: 78px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Τετάρτη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="11/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>11/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="21:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>21:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Για κάποιους ανθρώπους ένα καινούργιο σπίτι δεν είναι πολυτέλεια, αλλά άμεση ανάγκη. Και ο ANT1 τους βοηθά να μπουν ΜΕ ΤΟ ΔΕΞΙ στο σπίτι των ονείρων τους.</a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=c99e1f76-1e82-4924-af00-911b7778c876.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=f_vn_oqy0s_phw%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in5">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144" title="ΜΕ ΑΓΑΠΗ       "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg5" alt="ΜΕ ΑΓΑΠΗ       "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2941">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΜΕ " style="width: 30px; height: 25px;"><canvas width="52" height="25" style="width: 52px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΜΕ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΓΑΠΗ " style="width: 62px; height: 25px;"><canvas width="84" height="25" style="width: 84px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΑΓΑΠΗ </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2941"><cufon class="cufon cufon-canvas" alt="Παρασκευή " style="width: 87px; height: 20px;"><canvas width="104" height="20" style="width: 104px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Παρασκευή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="06/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>06/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="12:50" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>12:50</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Το κοινωνικό μήνυμα προσφοράς, αγάπης κι ελπίδας που στέλνουν καθημερινά ο ΑΝΤ1 και η Μαρί Κυριακού, άγγιξε πολλές καρδιές. </a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=046b533c-184e-4649-9021-3c10d35e24fb.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_l4ynag7_m_hwo%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in6">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=220973" title="MERLIN                            "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg6" alt="MERLIN                            "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2658">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle" style="font-size:18px"><cufon class="cufon cufon-canvas" alt="MERLIN " style="width: 46px; height: 18px;"><canvas width="62" height="18" style="width: 62px; height: 18px; top: 0px; left: -3px;"></canvas><cufontext>MERLIN </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2658"><cufon class="cufon cufon-canvas" alt="Παρασκευή " style="width: 87px; height: 20px;"><canvas width="104" height="20" style="width: 104px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Παρασκευή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="06/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>06/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="17:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>17:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Οι θρυλικές ιστορίες του μάγου «Μέρλιν», «ταξιδεύουν» από το μυθικό Κάμελοτ στον... ΑΝΤ1! Η υπερπαραγωγή του BBC που «μάγεψε» τους νέους στις χώρες που έχει μεταδοθεί, θεωρείται ως μια από τις καλύτερες σειρές φαντασίας παγκοσμίως.</a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=74a03cdc-6033-4997-9199-7303b7e5911d.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Δείτε το Trailer</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_yb50_t_g_g_r4u_q%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+  </div>
+  <div class="mainTeaserIn" id="in7">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=252156" title="DANCING ON ICE"><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg7" alt="DANCING ON ICE"></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="DANCING " style="width: 77px; height: 25px;"><canvas width="99" height="25" style="width: 99px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>DANCING </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ON " style="width: 29px; height: 25px;"><canvas width="50" height="25" style="width: 50px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ON </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ICE" style="width: 26px; height: 25px;"><canvas width="42" height="25" style="width: 42px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ICE</cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Κυριακή " style="width: 64px; height: 20px;"><canvas width="81" height="20" style="width: 81px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Κυριακή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="08/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>08/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="21:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>21:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Στροφή από το ballroom… στον πάγο και τώρα, ώρα για να φρεσκάρουμε τις γνώσεις μας για το τετραπλό τόλουπ, το τριπλό άξελ, την πιρουέτα Μπίλμαν. </a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=9cca275f-701c-4c3d-bf11-892d24891bf6.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=bi_j_c_a3ount0%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in8">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=251459" title="BLACK OUT    "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg8" alt="BLACK OUT    "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="BLACK " style="width: 58px; height: 25px;"><canvas width="80" height="25" style="width: 80px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>BLACK </cufontext></cufon><cufon class="cufon cufon-canvas" alt="OUT " style="width: 38px; height: 25px;"><canvas width="60" height="25" style="width: 60px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>OUT </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Δευτέρα " style="width: 63px; height: 20px;"><canvas width="80" height="20" style="width: 80px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Δευτέρα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="09/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>09/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="22:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>22:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Τα βλέπετε όλα μαύρα; Είναι επειδή ήρθε στην Ελλάδα το «Black Out», αφού πρώτα σάρωσε σε τηλεθέαση στη Δανία, στο Βέλγιο, στη Νορβηγία και στην Ολλανδία.</a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=986727c2-f0cc-4822-9344-509ada6632fa.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=dqx5_t8_p_d_k%24_a%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in9">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=178143" title="ΡΑΔΙΟ ΑΡΒΥΛΑ"><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg9" alt="ΡΑΔΙΟ ΑΡΒΥΛΑ"></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΡΑΔΙΟ " style="width: 53px; height: 25px;"><canvas width="75" height="25" style="width: 75px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΡΑΔΙΟ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΡΒΥΛΑ" style="width: 63px; height: 25px;"><canvas width="79" height="25" style="width: 79px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΑΡΒΥΛΑ</cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Δευτέρα " style="width: 63px; height: 20px;"><canvas width="80" height="20" style="width: 80px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Δευτέρα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="09/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>09/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="23:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>23:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Ο Αντώνης Κανάκης, ο Γιάννης Σερβετάς, ο Στάθης Παναγιωτόπουλος και ο Χρήστος Κιούσης, ξανά μαζί μας για 4η χρονιά. Το καλύτερο αντίδοτο στην ελληνική πραγματικότητα. Κάθε Δευτέρα, Τρίτη και Τετάρτη στις 23:00.</a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=48ef2579-2c62-40cd-97d2-15f4cde60f8d.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_jja_z_tp_z_q_g_j8%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+  <div class="mainTeaserIn" id="in10">
+    <div class="mainTeaserImg"><a href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=251460" title="FAB5      "><img width="950" height="495" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" id="teaserImg10" alt="FAB5      "></a></div>
+    <div class="mainTeaserR">
+      <div class="mainTeaserRW">
+        <div class="categoryLine color2663">&nbsp;</div>
+        <div class="t_title">
+          <h1 class="mainteasertitle"><cufon class="cufon cufon-canvas" alt="FAB5 " style="width: 46px; height: 25px;"><canvas width="68" height="25" style="width: 68px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>FAB5 </cufontext></cufon></h1>
+        </div>
+        <div class="t_time">
+          <h2 name="mainteaser" class="teasertime font2663"><cufon class="cufon cufon-canvas" alt="Τετάρτη " style="width: 61px; height: 20px;"><canvas width="78" height="20" style="width: 78px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>Τετάρτη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="11/01 " style="width: 49px; height: 20px;"><canvas width="66" height="20" style="width: 66px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>11/01 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="22:00" style="width: 43px; height: 20px;"><canvas width="54" height="20" style="width: 54px; height: 20px; top: 0px; left: -3px;"></canvas><cufontext>22:00</cufontext></cufon></h2>
+        </div>
+        <div class="t_text"><a class="teaserDesc font12txt">Αντισυμβατικοί, εκκεντρικοί, μοναδικοί, πετυχημένοι, προκλητικοί, σπεσιαλίστες. Οι FAB 5 της Ελλάδας είναι η dream team του κάθε dreamer.</a></div>
+        <div class="t_meta">
+          <div><img src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=81d93d31-f2f5-41da-a0b3-527ec50a9393.jpg&amp;width=200"></div>
+          <div class="t_webtvtitle"><a class="font11txt greytxt boldfont">Τελευταίο επεισόδιο</a></div>
+          <div class="t_playbtn"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/webtv_play.png"></div>
+          <div class="t_holder"><a href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=i_w_j7w_d_o_b_s_r_m%3d"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="200" height="150"></a></div>&nbsp;</div>
+      </div>
+    </div>
+    <div class="t_minisite"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_minisite.png" width="66" height="20"></div>
+  </div>
+</div>
+<div id="mainTtools" style="opacity: 0;" xmlns:myobj="urn:ant1">
+  <div id="thumWrapper">
+    <div id="thumbholder" style="width: 1200px; left: 0px;">
+      <div style="float:left; width:120px; " class="active"><a style="cursor:pointer" onclick="showTeaser(1)"><img width="110" height="48" class="inactivethumb" id="t1" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=66a1da77-dfc3-4f89-a121-53761e07eb5d.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(2)"><img width="110" height="48" class="inactivethumb" id="t2" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=08a0f7e0-7852-487a-81df-dedcf4df99b4.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(3)"><img width="110" height="48" class="inactivethumb" id="t3" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=9bd14c34-6776-4552-a4be-9b7b172a40b4.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(4)"><img width="110" height="48" class="activethumb" id="t4" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=3e58ec4a-3932-4487-95d2-b396b0755a8f.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(5)"><img width="110" height="48" class="inactivethumb" id="t5" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=b8936c43-0481-429f-8cf3-29db3babd4bf.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(6)"><img width="110" height="48" class="inactivethumb" id="t6" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=41e36fcf-08c4-479f-8786-7836acea410b.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(7)"><img width="110" height="48" class="inactivethumb" id="t7" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=1f864e6e-5c2a-42db-9ea8-606b1c064d4f.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(8)"><img width="110" height="48" class="inactivethumb" id="t8" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=842e8673-d3ac-4b6f-9a6d-c7cc54d63a17.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(9)"><img width="110" height="48" class="inactivethumb" id="t9" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=040a9afe-8fd7-4c78-af39-782fb194034d.jpg&amp;width=110"></a></div>
+      <div style="float:left; width:120px; "><a style="cursor:pointer" onclick="showTeaser(10)"><img width="110" height="48" class="inactivethumb" id="t10" src="/web/20120106063344im_/http://www.antenna.gr/tv/imgHandler.ashx?src=9921db7d-f395-4a3d-a65c-17ed1d682a60.jpg&amp;width=110"></a></div>
+    </div>
+  </div>
+  <div class="thumbsLArrow"><a href="javascript:void(null)" onclick="moveThumbsLeft('thumbholder','900')"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/prev_btn.png"></a></div>
+  <div class="thumbsRArrow"><a href="javascript:void(null)" onclick="moveThumbsRight('thumbholder','900')"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/next_btn.png"></a></div>
+</div><script language="javascript" xmlns:myobj="urn:ant1">
+ addLoadEvent(function() {
+    preloading("/resources/images/37a0d972-9104-4963-a93a-881af7d9a133.jpg","/resources/images/800e3b21-a197-4add-be0e-b3696b5cd484.jpg","/resources/images/d1240b20-9f67-4744-a21e-9fcfd7fc34c8.jpg","/resources/images/a7b1fbaa-003d-4e9c-b844-9aaee73381e2.jpg","/resources/images/db164012-4ef0-40bb-a173-bfae2fccbced.jpg","/resources/images/70e6a16d-fd4e-4011-9e05-b94f57231a52.jpg","/resources/images/84597611-08b1-4020-96d6-ac4eb1fb87b0.jpg","/resources/images/99bbe436-013f-489b-ac32-d29a247b7fa0.jpg","/resources/images/26be4f77-a8be-4417-a40b-d2afa217c11d.jpg","/tv/imgHandler.ashx?src=93a9e373-e40f-4e01-aead-d6aa5799d79d.jpg&width=950");
+});
+</script></div>
+
+</div>
+<div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="20"></div>
+<!--main teasers-->
+
+
+<!-- middle area -->
+<div class="brandedZones">
+<div id="ctl00_teasers3_ContentDiv"><div id="slide1" class="brandedSlide" style="z-index:1" onclick="doSlide(1,'246141')" ondblclick="location.href='/tv/show?sid=246141';" xmlns:myobj="urn:ant1"><div class="brandedImg" id="img1"><div class="brandedTitle mainteasertitle"><cufon class="cufon cufon-canvas" alt="ELI " style="width: 30px; height: 25px;"><canvas width="52" height="25" style="width: 52px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ELI </cufontext></cufon><cufon class="cufon cufon-canvas" alt="STONE" style="width: 54px; height: 25px;"><canvas width="70" height="25" style="width: 70px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>STONE</cufontext></cufon></div><img width="640" height="254" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/090f8649-1715-4674-920b-ff69e70a148c.jpg"><div class="brandedTHolder"><div class="brandedTText blacktxt"><cufon class="cufon cufon-canvas" alt="Η " style="width: 13px; height: 14px;"><canvas width="25" height="15" style="width: 25px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Η </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ζωή " style="width: 25px; height: 14px;"><canvas width="37" height="15" style="width: 37px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ζωή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="του " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>του </cufontext></cufon><cufon class="cufon cufon-canvas" alt="κυνικού " style="width: 46px; height: 14px;"><canvas width="57" height="15" style="width: 57px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>κυνικού </cufontext></cufon><cufon class="cufon cufon-canvas" alt="δικηγόρου " style="width: 59px; height: 14px;"><canvas width="71" height="15" style="width: 71px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>δικηγόρου </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ιλάι " style="width: 24px; height: 14px;"><canvas width="36" height="15" style="width: 36px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Ιλάι </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Στόουν " style="width: 41px; height: 14px;"><canvas width="52" height="15" style="width: 52px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Στόουν </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ανατρέπεται, " style="width: 70px; height: 14px;"><canvas width="82" height="15" style="width: 82px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ανατρέπεται, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="όταν " style="width: 28px; height: 14px;"><canvas width="40" height="15" style="width: 40px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>όταν </cufontext></cufon><cufon class="cufon cufon-canvas" alt="αρχίζει " style="width: 40px; height: 14px;"><canvas width="52" height="15" style="width: 52px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>αρχίζει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="να " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>να </cufontext></cufon><cufon class="cufon cufon-canvas" alt="έχει " style="width: 24px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>έχει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="παραισθήσεις: " style="width: 78px; height: 14px;"><canvas width="90" height="15" style="width: 90px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>παραισθήσεις: </cufontext></cufon><cufon class="cufon cufon-canvas" alt="βλέπει " style="width: 39px; height: 14px;"><canvas width="50" height="15" style="width: 50px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>βλέπει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τον " style="width: 21px; height: 14px;"><canvas width="33" height="15" style="width: 33px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τον </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Τζορτζ " style="width: 38px; height: 14px;"><canvas width="50" height="15" style="width: 50px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Τζορτζ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μάικλ " style="width: 36px; height: 14px;"><canvas width="48" height="15" style="width: 48px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Μάικλ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="να " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>να </cufontext></cufon><cufon class="cufon cufon-canvas" alt="του " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>του </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τραγουδάει " style="width: 63px; height: 14px;"><canvas width="75" height="15" style="width: 75px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τραγουδάει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="και " style="width: 20px; height: 14px;"><canvas width="32" height="15" style="width: 32px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>και </cufontext></cufon><cufon class="cufon cufon-canvas" alt="νομίζει " style="width: 41px; height: 14px;"><canvas width="52" height="15" style="width: 52px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>νομίζει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ότι " style="width: 18px; height: 14px;"><canvas width="30" height="15" style="width: 30px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ότι </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ο " style="width: 10px; height: 14px;"><canvas width="22" height="15" style="width: 22px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Θεός " style="width: 29px; height: 14px;"><canvas width="41" height="15" style="width: 41px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Θεός </cufontext></cufon><cufon class="cufon cufon-canvas" alt="του " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>του </cufontext></cufon><cufon class="cufon cufon-canvas" alt="στέλνει " style="width: 43px; height: 14px;"><canvas width="54" height="15" style="width: 54px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>στέλνει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ένα " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ένα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="μήνυμα " style="width: 44px; height: 14px;"><canvas width="56" height="15" style="width: 56px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>μήνυμα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="που " style="width: 24px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>που </cufontext></cufon><cufon class="cufon cufon-canvas" alt="πρέπει " style="width: 38px; height: 14px;"><canvas width="50" height="15" style="width: 50px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>πρέπει </cufontext></cufon><cufon class="cufon cufon-canvas" alt="να " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>να </cufontext></cufon><cufon class="cufon cufon-canvas" alt="το " style="width: 15px; height: 14px;"><canvas width="27" height="15" style="width: 27px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>το </cufontext></cufon><cufon class="cufon cufon-canvas" alt="μεταδώσει!" style="width: 60px; height: 14px;"><canvas width="71" height="15" style="width: 71px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>μεταδώσει!</cufontext></cufon></div></div></div></div><div id="slide2" class="brandedSlide" style="z-index:2;" onclick="doSlide(2,'252156')" ondblclick="location.href='/tv/show?sid=252156';" xmlns:myobj="urn:ant1"><div style="position:absolute; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Shadow_bottom.png'); width:640px; height:8px; top:-8px; left:0px; z-index:3"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="640" height="8"></div><div class="brandedImg" id="img2"><div class="brandedTitle mainteasertitle"><cufon class="cufon cufon-canvas" alt="DANCING " style="width: 77px; height: 25px;"><canvas width="99" height="25" style="width: 99px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>DANCING </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ON " style="width: 29px; height: 25px;"><canvas width="50" height="25" style="width: 50px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ON </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ICE" style="width: 26px; height: 25px;"><canvas width="42" height="25" style="width: 42px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ICE</cufontext></cufon></div><img width="640" height="254" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/e7464262-5f05-4d9f-bf69-ea24bbaf4b3e.jpg"><div class="brandedTHolder"><div class="brandedTText blacktxt"><cufon class="cufon cufon-canvas" alt="Στροφή " style="width: 43px; height: 14px;"><canvas width="54" height="15" style="width: 54px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Στροφή </cufontext></cufon><cufon class="cufon cufon-canvas" alt="από " style="width: 24px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>από </cufontext></cufon><cufon class="cufon cufon-canvas" alt="το " style="width: 15px; height: 14px;"><canvas width="27" height="15" style="width: 27px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>το </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ballroom… " style="width: 51px; height: 14px;"><canvas width="63" height="15" style="width: 63px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ballroom… </cufontext></cufon><cufon class="cufon cufon-canvas" alt="στον " style="width: 28px; height: 14px;"><canvas width="40" height="15" style="width: 40px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>στον </cufontext></cufon><cufon class="cufon cufon-canvas" alt="πάγο " style="width: 30px; height: 14px;"><canvas width="41" height="15" style="width: 41px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>πάγο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="και " style="width: 20px; height: 14px;"><canvas width="32" height="15" style="width: 32px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>και </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τώρα, " style="width: 34px; height: 14px;"><canvas width="46" height="15" style="width: 46px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τώρα, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ώρα " style="width: 26px; height: 14px;"><canvas width="38" height="15" style="width: 38px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ώρα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="για " style="width: 19px; height: 14px;"><canvas width="31" height="15" style="width: 31px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>για </cufontext></cufon><cufon class="cufon cufon-canvas" alt="να " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>να </cufontext></cufon><cufon class="cufon cufon-canvas" alt="φρεσκάρουμε " style="width: 76px; height: 14px;"><canvas width="88" height="15" style="width: 88px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>φρεσκάρουμε </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τις " style="width: 17px; height: 14px;"><canvas width="29" height="15" style="width: 29px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τις </cufontext></cufon><cufon class="cufon cufon-canvas" alt="γνώσεις " style="width: 46px; height: 14px;"><canvas width="58" height="15" style="width: 58px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>γνώσεις </cufontext></cufon><cufon class="cufon cufon-canvas" alt="μας " style="width: 23px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>μας </cufontext></cufon><cufon class="cufon cufon-canvas" alt="για " style="width: 19px; height: 14px;"><canvas width="31" height="15" style="width: 31px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>για </cufontext></cufon><cufon class="cufon cufon-canvas" alt="το " style="width: 15px; height: 14px;"><canvas width="27" height="15" style="width: 27px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>το </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τετραπλό " style="width: 53px; height: 14px;"><canvas width="64" height="15" style="width: 64px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τετραπλό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τόλουπ, " style="width: 45px; height: 14px;"><canvas width="57" height="15" style="width: 57px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τόλουπ, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="το " style="width: 15px; height: 14px;"><canvas width="27" height="15" style="width: 27px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>το </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τριπλό " style="width: 39px; height: 14px;"><canvas width="50" height="15" style="width: 50px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τριπλό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="άξελ, " style="width: 32px; height: 14px;"><canvas width="43" height="15" style="width: 43px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>άξελ, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="την " style="width: 21px; height: 14px;"><canvas width="33" height="15" style="width: 33px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>την </cufontext></cufon><cufon class="cufon cufon-canvas" alt="πιρουέτα " style="width: 51px; height: 14px;"><canvas width="62" height="15" style="width: 62px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>πιρουέτα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μπίλμαν." style="width: 49px; height: 14px;"><canvas width="60" height="15" style="width: 60px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Μπίλμαν.</cufontext></cufon></div></div></div></div><div id="slide3" class="brandedSlide" style="z-index:3" onclick="doSlide(3,'230597')" ondblclick="location.href='/tv/show?sid=230597';" xmlns:myobj="urn:ant1"><div style="position:absolute; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Shadow_upper.png'); width:640px; height:8px; top:0px; left:0px; z-index:3"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="640" height="8"></div><div class="brandedImg" id="img3"><div class="brandedTitle mainteasertitle"><cufon class="cufon cufon-canvas" alt="ΟΛΙΒΕΡ " style="width: 64px; height: 25px;"><canvas width="86" height="25" style="width: 86px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΟΛΙΒΕΡ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΤΟΥΙΣΤ" style="width: 55px; height: 25px;"><canvas width="72" height="25" style="width: 72px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>ΤΟΥΙΣΤ</cufontext></cufon></div><img width="640" height="254" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/0117ba28-dc62-4d1a-91c9-15acf7c2ac12.jpg"><div class="brandedTHolder"><div class="brandedTText blacktxt"><cufon class="cufon cufon-canvas" alt="Το " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Το </cufontext></cufon><cufon class="cufon cufon-canvas" alt="κλασικό " style="width: 47px; height: 14px;"><canvas width="58" height="15" style="width: 58px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>κλασικό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="αριστούργημα " style="width: 78px; height: 14px;"><canvas width="90" height="15" style="width: 90px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>αριστούργημα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="του " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>του </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Καρόλου " style="width: 51px; height: 14px;"><canvas width="63" height="15" style="width: 63px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Καρόλου </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ντίκενς " style="width: 43px; height: 14px;"><canvas width="55" height="15" style="width: 55px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Ντίκενς </cufontext></cufon><cufon class="cufon cufon-canvas" alt="γίνεται " style="width: 39px; height: 14px;"><canvas width="51" height="15" style="width: 51px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>γίνεται </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ένα " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>ένα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="αξέχαστο " style="width: 52px; height: 14px;"><canvas width="64" height="15" style="width: 64px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>αξέχαστο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="κινηματογραφικό " style="width: 95px; height: 14px;"><canvas width="106" height="15" style="width: 106px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>κινηματογραφικό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="έργο, " style="width: 32px; height: 14px;"><canvas width="43" height="15" style="width: 43px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>έργο, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="χάρη " style="width: 29px; height: 14px;"><canvas width="41" height="15" style="width: 41px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>χάρη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="στη " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>στη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="σκηνοθετική " style="width: 70px; height: 14px;"><canvas width="82" height="15" style="width: 82px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>σκηνοθετική </cufontext></cufon><cufon class="cufon cufon-canvas" alt="μαεστρία " style="width: 51px; height: 14px;"><canvas width="63" height="15" style="width: 63px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>μαεστρία </cufontext></cufon><cufon class="cufon cufon-canvas" alt="του " style="width: 22px; height: 14px;"><canvas width="34" height="15" style="width: 34px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>του </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ρόμαν " style="width: 37px; height: 14px;"><canvas width="48" height="15" style="width: 48px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Ρόμαν </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Πολάνσκι " style="width: 54px; height: 14px;"><canvas width="66" height="15" style="width: 66px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Πολάνσκι </cufontext></cufon><cufon class="cufon cufon-canvas" alt="(Όσκαρ " style="width: 42px; height: 14px;"><canvas width="54" height="15" style="width: 54px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>(Όσκαρ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="σκηνοθεσίας " style="width: 71px; height: 14px;"><canvas width="82" height="15" style="width: 82px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>σκηνοθεσίας </cufontext></cufon><cufon class="cufon cufon-canvas" alt="2002 " style="width: 32px; height: 14px;"><canvas width="43" height="15" style="width: 43px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>2002 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 14px;"><canvas width="15" height="15" style="width: 15px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="«Ο " style="width: 11px; height: 14px;"><canvas width="23" height="15" style="width: 23px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>«Ο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="πιανίστας»)." style="width: 58px; height: 14px;"><canvas width="70" height="15" style="width: 70px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>πιανίστας»).</cufontext></cufon></div></div></div></div><div id="slide4" class="brandedSlide" style="z-index:4" onclick="doSlide(4,'256242')" ondblclick="location.href='/tv/show?sid=256242';" xmlns:myobj="urn:ant1"><div style="position:absolute; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Shadow_bottom.png'); width:640px; height:8px; top:-8px; left:0px; z-index:3"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="640" height="8"></div><div class="brandedImg" id="img4"><div class="brandedTitle mainteasertitle"><cufon class="cufon cufon-canvas" alt="THE " style="width: 37px; height: 25px;"><canvas width="58" height="25" style="width: 58px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>THE </cufontext></cufon><cufon class="cufon cufon-canvas" alt="FLATMATES" style="width: 95px; height: 25px;"><canvas width="111" height="25" style="width: 111px; height: 25px; top: 0px; left: -4px;"></canvas><cufontext>FLATMATES</cufontext></cufon></div><img width="640" height="254" src="/web/20120106063344im_/http://www.antenna.gr/resources/images/52df0414-ea72-4e88-a181-4fa33440e50f.jpg"><div class="brandedTHolder" style="top:166px; height:88px;"><div class="brandedTText blacktxt"><cufon class="cufon cufon-canvas" alt="Συγκατοίκηση... " style="width: 87px; height: 14px;"><canvas width="98" height="15" style="width: 98px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Συγκατοίκηση... </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τέλος! " style="width: 37px; height: 14px;"><canvas width="49" height="15" style="width: 49px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τέλος! </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Και " style="width: 21px; height: 14px;"><canvas width="33" height="15" style="width: 33px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Και </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τώρα? " style="width: 38px; height: 14px;"><canvas width="50" height="15" style="width: 50px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τώρα? </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αθηνά, " style="width: 40px; height: 14px;"><canvas width="51" height="15" style="width: 51px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Αθηνά, </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Έλενα " style="width: 35px; height: 14px;"><canvas width="47" height="15" style="width: 47px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Έλενα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="και " style="width: 20px; height: 14px;"><canvas width="32" height="15" style="width: 32px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>και </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αλέξης " style="width: 41px; height: 14px;"><canvas width="53" height="15" style="width: 53px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Αλέξης </cufontext></cufon><cufon class="cufon cufon-canvas" alt="σε " style="width: 16px; height: 14px;"><canvas width="28" height="15" style="width: 28px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>σε </cufontext></cufon><cufon class="cufon cufon-canvas" alt="νέες " style="width: 26px; height: 14px;"><canvas width="38" height="15" style="width: 38px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>νέες </cufontext></cufon><cufon class="cufon cufon-canvas" alt="αναζητήσεις. " style="width: 71px; height: 14px;"><canvas width="83" height="15" style="width: 83px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>αναζητήσεις. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μη " style="width: 20px; height: 14px;"><canvas width="31" height="15" style="width: 31px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Μη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="χάσετε " style="width: 39px; height: 14px;"><canvas width="51" height="15" style="width: 51px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>χάσετε </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τον " style="width: 21px; height: 14px;"><canvas width="33" height="15" style="width: 33px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τον </cufontext></cufon><cufon class="cufon cufon-canvas" alt="4ο " style="width: 17px; height: 14px;"><canvas width="29" height="15" style="width: 29px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>4ο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="κύκλο " style="width: 37px; height: 14px;"><canvas width="49" height="15" style="width: 49px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>κύκλο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="“The " style="width: 23px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>“The </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Flatmates” " style="width: 57px; height: 14px;"><canvas width="69" height="15" style="width: 69px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Flatmates” </cufontext></cufon><cufon class="cufon cufon-canvas" alt="από " style="width: 24px; height: 14px;"><canvas width="35" height="15" style="width: 35px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>από </cufontext></cufon><cufon class="cufon cufon-canvas" alt="τις " style="width: 17px; height: 14px;"><canvas width="29" height="15" style="width: 29px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>τις </cufontext></cufon><cufon class="cufon cufon-canvas" alt="10 " style="width: 18px; height: 14px;"><canvas width="29" height="15" style="width: 29px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>10 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ιανουαρίου." style="width: 63px; height: 14px;"><canvas width="75" height="15" style="width: 75px; height: 15px; top: 0px; left: -2px;"></canvas><cufontext>Ιανουαρίου.</cufontext></cufon></div></div></div></div></div>
+
+</div> 
+<!-- middle area -->
+
+<!-- right area-->
+<div style="float:right; width:300px;">
+<!-- banner 300x250-->
+    <div style="width:300px; height:250px; overflow:hidden;">
+    <noscript>
+    <a title="Adman Banner" href="https://web.archive.org/web/20120106063344/http://adman.antenna.gr/click?webspace=2&amp;dfl=yes"><img src="https://web.archive.org/web/20120106063344im_/http://adman.antenna.gr/banner?webspace=2&amp;dfl=yes&amp;js=no" border="0" width="300" height="250" alt=""/></a><br/>
+    </noscript>
+    <script language="javascript" type="text/javascript">
+        // <![CDATA[[
+        if (typeof Adman === 'undefined' || /MSIE [456]/.test(navigator['appVersion']))
+            document.write('<scr' + 'ipt src="https://web.archive.org/web/20120106063344/http://static.adman.gr/adman.js" language="javascript" type="text/javascript"></' + 'sc' + 'ript>');
+        var now = parseInt((new Date()).getTime());
+        if (!window.admantpid) window.admantpid = now;
+        var rnd = Math.floor(Math.random() * 900000) + 100, cdp = screen.width + "x" + screen.height + "x" + (navigator.appName == "Netscape" ? screen.pixelDepth : screen.colorDepth), burst = "?" + rnd + ":=" + window.admantpid + "@" + cdp + "?";
+        document.write("<scr" + "ipt language=\"Javascript\" src=\"http://adman.antenna.gr/gbanner/?" + now + "|2/300x250" + burst + "/\">");
+        document.write("</" + "sc" + "ript>");
+        // ]]>
+    </script><script language="Javascript" src="https://web.archive.org/web/20120106063344js_/http://adman.antenna.gr/gbanner/?1325831631320|2/300x250?514907:=1325831628057@1536x864x32?/"></template></script>
+    </div>
+<!-- banner 300x250-->
+
+<!-- 7 days -->
+<div class="clearer">
+ 
+<div style="height:10px;">&nbsp;</div>
+<div style="background:#000; width:300px; height:248px;">
+<div><img alt="*" src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="2"></div>
+<div style="width:300px; height:33px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_DayBG.png') no-repeat; position:relative">
+<div id="days" style="position:absolute; width:287px; height:40px; left:8px; top:0px;">
+
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:0px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat 0px -132px" id="0" onclick="changeweekdays(0, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:41px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -165px" id="1" onclick="changeweekdays(1, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:82px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -198px" id="2" onclick="changeweekdays(2, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:123px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -0px" id="3" onclick="changeweekdays(3, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:164px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -33px" id="4" onclick="changeweekdays(4, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:205px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -66px" id="5" onclick="changeweekdays(5, this)">&nbsp;</div>
+        
+        <div style="position:absolute; cursor:pointer; top:0px; width:41px; height:30px; left:246px; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/Titles_States.png') no-repeat -41px -99px" id="6" onclick="changeweekdays(6, this)">&nbsp;</div>
+        
+<script language="javascript" type="text/javascript">
+var aArr = [];
+
+     aArr[0] = 5;
+
+     aArr[1] = 6;
+
+     aArr[2] = 0;
+
+     aArr[3] = 1;
+
+     aArr[4] = 2;
+
+     aArr[5] = 3;
+
+     aArr[6] = 4;
+
+</script>
+</div>
+</div>
+<div id="ctl00_onair1_ContentDiv" style="clear:both;"><div class="weekWrap" xmlns:myobj="urn:ant1"><div id="weekmove"><div class="lalign daysholder"><div style="margin:13px 0px 8px 0px; width:100%; height:24px; overflow:hidden; position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="07:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>07:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" title="ΠΡΩΙΝΟ ΑΝΤ1" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1</a><div style="position:absolute; top:-3px; left:175px;"><a class="whitetxt boldfont font14txt" title="ΠΡΩΙΝΟ ΑΝΤ1" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793"></a><a title="ANT1 TV Live" href="/web/20120106063344/http://www.antenna.gr/webtv/live"><img alt="ANT1 TV Live" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/Live_btn.png"></a></div></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden;  position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:50" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:50</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" title="ΜΕ ΑΓΑΠΗ" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144">ΜΕ ΑΓΑΠΗ</a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden;  position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" title="ANT1 NEWS" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=222903">ANT1 NEWS</a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden;  position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:30" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:30</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" title="ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=82243">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ</a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:19px; overflow:hidden; position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="08:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>08:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=78577">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ                                 </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:19px; overflow:hidden; position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="09:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>09:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=184903">40 ΚΥΜΑΤΑ                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:19px; overflow:hidden; position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="10:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>10:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=133841">Ο ΜΠΛΟΦΑΤΖΗΣ                                      </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:19px; overflow:hidden; position:relative;"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=116428">ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ                           </a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="08:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>08:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=78577">ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ                                 </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="09:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>09:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=184903">40 ΚΥΜΑΤΑ                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="10:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>10:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=165878">ΦΙΛΑ ΤΟ ΒΑΤΡΑΧΟ ΣΟΥ                               </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="11:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>11:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=78514">ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ                      </a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="07:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>07:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1                                       </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:50" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:50</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144">ΜΕ ΑΓΑΠΗ                                          </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=222903">ANT1 NEWS                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:30" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:30</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=82243">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ                               </a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="07:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>07:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1                                       </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:50" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:50</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144">ΜΕ ΑΓΑΠΗ                                          </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=222903">ANT1 NEWS                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:30" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:30</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=82243">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ                               </a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="07:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>07:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1                                       </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:50" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:50</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144">ΜΕ ΑΓΑΠΗ                                          </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=222903">ANT1 NEWS                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:30" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:30</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=82243">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ                               </a></div></div></div><div class="lalign daysholder"><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="07:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>07:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793">ΠΡΩΙΝΟ ΑΝΤ1                                       </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="12:50" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>12:50</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144">ΜΕ ΑΓΑΠΗ                                          </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:00" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:00</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=222903">ANT1 NEWS                                         </a></div></div><div style="background:#333; width:290px height:2px;"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div><div style="margin:13px 0px 13px 0px; width:100%; height:18px; overflow:hidden; position:relative"><span class="greytxt boldfont font18txt ministime"><cufon class="cufon cufon-canvas" alt="13:30" style="width: 47px; height: 22px;"><canvas width="60" height="21" style="width: 60px; height: 21px; top: 0px; left: -4px;"></canvas><cufontext>13:30</cufontext></cufon></span>
+&nbsp;&nbsp;
+<div style="position:absolute; top:3px; left:55px; width:240px;"><a class="whitetxt boldfont font14txt" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=82243">ΑΚΡΩΣ ΟΙΚΟΓΕΝΕΙΑΚΟΝ                               </a></div></div></div></div></div><div style="clear:both;float:right; margin:0px 10px 0px 0px" xmlns:myobj="urn:ant1"><a title="Το πρόγραμμα αναλυτικά" href="/web/20120106063344/http://www.antenna.gr/tv/schedule"><img alt="Το πρόγραμμα αναλυτικά" src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_program.png"></a></div></div>
+</div>
+<script language="javascript" type="text/javascript">
+    createclick = function() {
+        var days = $('days').getElementsByTagName('div');
+        for (var w = 0; w < days.length; w++) {
+            days[w].id = w;
+            days[w].setAttribute('onclick', 'changeweekdays(' + w + ', this)');
+            days[w].onclick = function() { changeweekdays(this.id, this) };
+        };
+    };
+    function changeweekdays(d, obj) {
+        
+        var days = $('days').getElementsByTagName('div');
+        for (var w = 0; w < days.length; w++) {
+
+           var fix = aArr[days[w].id];
+           if (fix == 0) { fix = 7 } ;
+           var myY = ( fix -1) * 33
+           days[w].style.background = 'url(\'/tv/images/Titles_States.png\') no-repeat -41px -' + myY + 'px';
+           
+        };
+        var r = aArr[d - 1];
+        if (d == 0) { r = aArr[d]-1; }
+        var mypos = (d * 33);
+        obj.style.background = 'url(\'/tv/images/Titles_States.png\') no-repeat 0px -' + (r * 33) + 'px';
+        var weekmove = document.getElementById('weekmove');
+        var tww = new Tween(weekmove.style, 'left', Tween.strongEaseOut, weekmove.offsetLeft, -(d * 290), 0.1, 'px');
+        tww.start();
+
+    }
+    addLoadEvent(function() {
+        createclick();
+    });
+</script>
+</div>
+<!-- 7 days -->
+   
+</div>
+<!-- right area-->
+
+
+<!-- bottom promo area-->
+<script language="javascript" type="text/javascript">
+    var st = 1;
+    var tg1 = new tbs('tabholder', '/tv/images/Tabs_HomePage.png', 'tabshead');
+</script>
+<div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="20"></div>
+<div style="clear:both;" id="tabholder">
+<div id="tabshead" style="position: relative; width: 488px; height: 41px; overflow: hidden; background: url(&quot;/web/20120106063344/http://www.antenna.gr/tv/images/Tabs_HomePage.png&quot;) 0px -41px no-repeat;">
+    <img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1">
+    <div style="position:absolute; top:5px; left:9px; width:137px; height:30px;"><a href="javascript:void(null)" onclick="tg1.changeTab(0)"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="137" height="30"></a></div>
+    <div style="position:absolute; top:5px; left:150px; width:153px; height:30px;"><a href="javascript:void(null)" onclick="tg1.changeTab(1)"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="153" height="30"></a></div>
+    <div style="position:absolute; top:5px; left:308px; width:170px; height:30px;"><a href="javascript:void(null)" onclick="tg1.changeTab(2)"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="170" height="30"></a></div>
+</div>
+<div style="width:948px; height:250px; position:relative; border:solid 1px #282521;" id="xxx">
+<div style="position:absolute; top:87px; left:0px; z-index:100"><a href="javascript:void(null)" onclick="moveObj(this,'right')"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/prev_btn.png"></a></div>
+<div style="position:absolute; top:87px; left:916px; z-index:100"><a href="javascript:void(null)" onclick="moveObj(this,'left')"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/next_btn.png"></a></div>
+    <div class="tab" style="display: none;"><div id="ctl00_teasers1_ContentDiv"><div class="slider" style="width:1896px;" xmlns:myobj="urn:ant1">
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=166144" rel="/tv/imgHandler.ashx?src=53da6425-d0da-403a-91cf-a43f0eb5be0a.jpg&amp;width=333" title="ΜΕ ΑΓΑΠΗ "><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΜΕ ΑΓΑΠΗ "></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΜΕ " style="width: 23px; height: 18px;"><canvas width="38" height="17" style="width: 38px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΜΕ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΓΑΠΗ " style="width: 48px; height: 18px;"><canvas width="63" height="17" style="width: 63px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΓΑΠΗ </cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=252235" rel="/tv/imgHandler.ashx?src=551f0088-1979-422c-a112-ef1b1a50040d.jpg&amp;width=333" title="ΒΡΑΔΥ"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΒΡΑΔΥ"></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΒΡΑΔΥ" style="width: 41px; height: 18px;"><canvas width="52" height="17" style="width: 52px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΒΡΑΔΥ</cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=246141" rel="/tv/imgHandler.ashx?src=113696b6-f549-4b51-ab38-64e064fd19ae.jpg&amp;width=333" title="ELI STONE "><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ELI STONE "></a></div>
+    <div class="hlistcaptionTitle">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ELI " style="width: 24px; height: 18px;"><canvas width="39" height="17" style="width: 39px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ELI </cufontext></cufon><cufon class="cufon cufon-canvas" alt="STONE " style="width: 46px; height: 18px;"><canvas width="61" height="17" style="width: 61px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>STONE </cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=220973" rel="/tv/imgHandler.ashx?src=562934a0-fd88-4b22-aea4-716d4edd0d4b.jpg&amp;width=333" title="MERLIN                        "><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="MERLIN                        "></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="MERLIN " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>MERLIN </cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=251473" rel="/tv/imgHandler.ashx?src=cc3cc71a-48b2-486b-900e-4cde50f5b1be.jpg&amp;width=333" title="ΠΡΩΙΝΟ ΑΝΤ1"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΠΡΩΙΝΟ ΑΝΤ1"></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΠΡΩΙΝΟ " style="width: 54px; height: 18px;"><canvas width="69" height="17" style="width: 69px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΠΡΩΙΝΟ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1" style="width: 34px; height: 18px;"><canvas width="44" height="17" style="width: 44px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1</cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/tv/show?sid=250793" rel="/tv/imgHandler.ashx?src=61d41aa5-ad5b-42a3-983d-fdb12d6d43c3.jpg&amp;width=333" title="ΠΡΩΙΝΟ ΑΝΤ1"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΠΡΩΙΝΟ ΑΝΤ1"></a></div>
+    <div class="hlistcaptionTitle">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΠΡΩΙΝΟ " style="width: 54px; height: 18px;"><canvas width="69" height="17" style="width: 69px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΠΡΩΙΝΟ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1" style="width: 34px; height: 18px;"><canvas width="44" height="17" style="width: 44px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1</cufontext></cufon></span></div>
+    </div>
+  </div>
+</div></div>
+</div>
+    <div class="tab" style="display: block;"><div id="ctl00_teasers2_ContentDiv"><div class="slider" style="width:1264px;" xmlns:myobj="urn:ant1">
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=p4gx%24t_v_f_s_fg%3d" rel="/tv/imgHandler.ashx?src=8d8d371a-03f4-46a8-81dc-53a7a304e530.jpg&amp;width=333" title="LAUGH ATTACK"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="LAUGH ATTACK"></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="LAUGH " style="width: 47px; height: 18px;"><canvas width="62" height="17" style="width: 62px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>LAUGH </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ATTACK" style="width: 48px; height: 18px;"><canvas width="58" height="17" style="width: 58px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ATTACK</cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_fpmsl_o%2fl_c_y_q%3d" rel="/tv/imgHandler.ashx?src=c321cef4-068b-46b7-b102-552e23dc5493.jpg&amp;width=333" title="ΕΛΕΥΘΕΡΟΣ ΚΙ ΩΡΑΙΟΣ"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΕΛΕΥΘΕΡΟΣ ΚΙ ΩΡΑΙΟΣ"></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΕΛΕΥΘΕΡΟΣ " style="width: 77px; height: 18px;"><canvas width="93" height="17" style="width: 93px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΕΛΕΥΘΕΡΟΣ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΚΙ " style="width: 17px; height: 18px;"><canvas width="33" height="17" style="width: 33px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΚΙ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΩΡΑΙΟΣ" style="width: 47px; height: 18px;"><canvas width="58" height="17" style="width: 58px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΩΡΑΙΟΣ</cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=zsc5kg_j_ej_ls%3d" rel="/tv/imgHandler.ashx?src=0fd342c0-dc5a-4d09-8577-abbd605b2722.jpg&amp;width=333" title="ΟΙΚΟΓΕΝΕΙΑ ΤΗΣ ΣΥΜΦΟΡΑΣ"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="ΟΙΚΟΓΕΝΕΙΑ ΤΗΣ ΣΥΜΦΟΡΑΣ"></a></div>
+    <div class="hlistcaptionTitle">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="ΟΙΚΟΓΕΝΕΙΑ " style="width: 80px; height: 18px;"><canvas width="95" height="17" style="width: 95px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΟΙΚΟΓΕΝΕΙΑ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΤΗΣ " style="width: 31px; height: 18px;"><canvas width="46" height="17" style="width: 46px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΤΗΣ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΣΥΜΦΟΡΑΣ" style="width: 70px; height: 18px;"><canvas width="81" height="17" style="width: 81px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΣΥΜΦΟΡΑΣ</cufontext></cufon></span></div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative;background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_g7fo_d_i_qh5_x_m%3d" rel="/tv/imgHandler.ashx?src=b1568534-31dc-422a-a01f-be44c7743b1a.jpg&amp;width=333" title="GALILEO   "><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="GALILEO   "></a></div>
+    <div class="hlistcaptionTitle" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px 10px 5px 5px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="GALILEO " style="width: 57px; height: 18px;"><canvas width="73" height="17" style="width: 73px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>GALILEO </cufontext></cufon></span></div>
+    </div>
+  </div>
+</div></div>
+</div>
+    <div class="tab" style="display:none;"><div id="ctl00_latestWebtv1_ContentDiv"><div class="slider" style="width:4740px;" xmlns:myobj="urn:ant1">
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=2tpu2w_z_uzv_a%3d" rel="/tv/imgHandler.ashx?src=75130459-531f-4074-b176-314268d48ac0.jpg&amp;width=333" title="Βράδυ - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Βράδυ - 05/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Βράδυ " style="width: 45px; height: 18px;"><canvas width="60" height="17" style="width: 60px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Βράδυ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ο Πέτρος Κωστόπουλος πιο τολμηρός, ανατρεπτικός και απρόβλεπτος από ποτέ.
+</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_nzztgvj_w_p_r4%3d" rel="/tv/imgHandler.ashx?src=304be7c1-dfaa-4c9a-a271-50830af799f3.jpg&amp;width=333" title="Πειρασμός (Επ.68)"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πειρασμός (Επ.68)"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πειρασμός " style="width: 72px; height: 18px;"><canvas width="88" height="17" style="width: 88px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πειρασμός </cufontext></cufon><cufon class="cufon cufon-canvas" alt="(Επ.68)" style="width: 49px; height: 18px;"><canvas width="62" height="17" style="width: 62px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>(Επ.68)</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Μια συγκλονιστική σειρά γεμάτη πάθος, ίντριγκα κι εκδίκηση, έρχεται να ταρακουνήσει τα απογεύματά μας και θα συζητηθεί όσο καμία άλλη!
+</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=%2f_v3%2fgt_oyy_as%3d" rel="/tv/imgHandler.ashx?src=89f94654-28bf-4fec-a64d-b5c7da98194a.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 – Ηρώ Μανέ - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 – Ηρώ Μανέ - 05/01/2012"></a></div>
+    <div class="hlistcaption">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ηρώ " style="width: 35px; height: 18px;"><canvas width="50" height="17" style="width: 50px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ηρώ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μανέ " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Μανέ </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Οι καλεσμένοι της εκπομπής "Πρωινό ΑΝΤ1"</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_ow_lq_e_t_r2x_b_y%3d" rel="/tv/imgHandler.ashx?src=088e3fe3-1a0a-4bb2-b2d8-aa9fe6169c99.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 - 05/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ο Γιώργος Παπαδάκης, ο Χρήστος Φερεντίνος, η Σίσσυ Χρηστίδου, η Λίτσα Πατέρα και η Αργυρώ Μπαρμπαρίγου μέσα από το "Πρωινό ΑΝΤ1"!</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_x_q_g5_rfc_zv3g%3d" rel="/tv/imgHandler.ashx?src=964bd318-82c5-46ea-b40c-508cc333b537.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 - Παρέα - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 - Παρέα - 05/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Παρέα " style="width: 45px; height: 18px;"><canvas width="60" height="17" style="width: 60px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Παρέα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ο  Χρήστος Φερεντίνος και η Σίσσυ Χρηστίδου μας υποδέχονται σε ένα magazino με ενδιαφέροντα ρεπορτάζ, χρηστικές συμβουλές και πολλή ψυχαγωγία.</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=8_mp91tq_j_m_i_m%3d" rel="/tv/imgHandler.ashx?src=19695ee9-efd4-4e1a-89d9-85be5b8522a6.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 – Αστρολογία - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 – Αστρολογία - 05/01/2012"></a></div>
+    <div class="hlistcaption">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αστρολογία " style="width: 78px; height: 18px;"><canvas width="93" height="17" style="width: 93px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Αστρολογία </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Η Λίτσα Πατέρα, μας "καθοδηγεί" με τις  πιο έγκυρες και εμπεριστατωμένες προβλέψεις.</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_juc5_wf_g_n7c8%3d" rel="/tv/imgHandler.ashx?src=c55c175d-c9ca-4260-b800-c6702eac1a5c.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 – Μαγειρική - Κυνήγι στη γάστρα - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 – Μαγειρική - Κυνήγι στη γάστρα - 05/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μαγειρική " style="width: 69px; height: 18px;"><canvas width="85" height="17" style="width: 85px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Μαγειρική </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Κυνήγι " style="width: 48px; height: 18px;"><canvas width="63" height="17" style="width: 63px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Κυνήγι </cufontext></cufon><cufon class="cufon cufon-canvas" alt="στη " style="width: 27px; height: 18px;"><canvas width="42" height="17" style="width: 42px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>στη </cufontext></cufon><cufon class="cufon cufon-canvas" alt="γάστ.." style="width: 37px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>γάστ..</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Η Αργυρώ μας παρουσιάζει πρωτότυπες συνταγές, φέρνοντας στην κουζίνα μας τη νοστιμιά και ανοίγοντάς μας την όρεξη… για τη μαγειρική!</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_ie_r%2f_r_duyb9o%3d" rel="/tv/imgHandler.ashx?src=4b7039ca-91c8-45db-86a7-ebc593d0f90a.jpg&amp;width=333" title="Πρωινό ΑΝΤ1 – Ενημέρωση - 05/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Πρωινό ΑΝΤ1 – Ενημέρωση - 05/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Πρωινό " style="width: 53px; height: 18px;"><canvas width="68" height="17" style="width: 68px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Πρωινό </cufontext></cufon><cufon class="cufon cufon-canvas" alt="ΑΝΤ1 " style="width: 38px; height: 18px;"><canvas width="53" height="17" style="width: 53px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>ΑΝΤ1 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ενημέρωση " style="width: 79px; height: 18px;"><canvas width="94" height="17" style="width: 94px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ενημέρωση </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="05/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>05/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">O Γιώργος Παπαδάκης με το χιούμορ και την αμεσότητά του, μας προσφέρει την καθημερινή ενημέρωση, έτσι όπως μόνο εκείνος ξέρει!</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=o_bf_m_t_i_h_m_og_i%3d" rel="/tv/imgHandler.ashx?src=fdc5d2fe-b37b-4ced-8b35-9281b763d716.jpg&amp;width=333" title="Ράδιο Αρβύλα – Γλυκερία - 04/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Ράδιο Αρβύλα – Γλυκερία - 04/01/2012"></a></div>
+    <div class="hlistcaption">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Ράδιο " style="width: 41px; height: 18px;"><canvas width="56" height="17" style="width: 56px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ράδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αρβύλα " style="width: 53px; height: 18px;"><canvas width="69" height="17" style="width: 69px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Αρβύλα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Γλυκερία " style="width: 63px; height: 18px;"><canvas width="78" height="17" style="width: 78px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Γλυκερία </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="04/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>04/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ράδιο Αρβύλα – Γλυκερία - 04/01/2012</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_v8hxbq28_pz4%3d" rel="/tv/imgHandler.ashx?src=d6c24156-6c28-4152-bee2-353b0e62b13c.jpg&amp;width=333" title="Ράδιο Αρβύλα - Internet videos - 04/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Ράδιο Αρβύλα - Internet videos - 04/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Ράδιο " style="width: 41px; height: 18px;"><canvas width="56" height="17" style="width: 56px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ράδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αρβύλα " style="width: 53px; height: 18px;"><canvas width="69" height="17" style="width: 69px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Αρβύλα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Internet " style="width: 57px; height: 18px;"><canvas width="72" height="17" style="width: 72px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Internet </cufontext></cufon><cufon class="cufon cufon-canvas" alt="videos " style="width: 46px; height: 18px;"><canvas width="61" height="17" style="width: 61px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>videos </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="04/01/20.." style="width: 70px; height: 18px;"><canvas width="85" height="17" style="width: 85px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>04/01/20..</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ράδιο Αρβύλα - Internet videos - 04/01/2012</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_jja_z_tp_z_q_g_j8%3d" rel="/tv/imgHandler.ashx?src=48ef2579-2c62-40cd-97d2-15f4cde60f8d.jpg&amp;width=333" title="Ράδιο Αρβύλα - 04/01/2012"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Ράδιο Αρβύλα - 04/01/2012"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Ράδιο " style="width: 41px; height: 18px;"><canvas width="56" height="17" style="width: 56px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ράδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Αρβύλα " style="width: 53px; height: 18px;"><canvas width="69" height="17" style="width: 69px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Αρβύλα </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="04/01/2012" style="width: 80px; height: 18px;"><canvas width="90" height="17" style="width: 90px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>04/01/2012</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Ο Αντώνης Κανάκης, ο Γιάννης Σερβετάς, ο Στάθης Παναγιωτόπουλος και ο Χρήστος Κιούσης, ξανά μαζί μας για 4η χρονιά.
+</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=c_c5_q_g_xa%24_j1_m%3d" rel="/tv/imgHandler.ashx?src=4d737d20-c796-4ebe-8ed1-3b9f025b18e1.jpg&amp;width=333" title="Backstage - επεισόδιο 7 - Ο Τρύφωνας Σαμαράς και ο Πειρατής"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Backstage - επεισόδιο 7 - Ο Τρύφωνας Σαμαράς και ο Πειρατής"></a></div>
+    <div class="hlistcaption">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Backstage " style="width: 72px; height: 18px;"><canvas width="87" height="17" style="width: 87px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Backstage </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="επεισόδιο " style="width: 66px; height: 18px;"><canvas width="81" height="17" style="width: 81px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>επεισόδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="7 " style="width: 13px; height: 18px;"><canvas width="28" height="17" style="width: 28px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>7 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Ο " style="width: 13px; height: 18px;"><canvas width="28" height="17" style="width: 28px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Ο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Τρύφωνας " style="width: 70px; height: 18px;"><canvas width="85" height="17" style="width: 85px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Τρύφωνας </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Σαμα.." style="width: 40px; height: 18px;"><canvas width="55" height="17" style="width: 55px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Σαμα..</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Backstage - επεισόδιο 7 - Ο Τρύφωνας Σαμαράς και ο Πειρατής  
+
+</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=j5u_zo%24l9k_e_i%3d" rel="/tv/imgHandler.ashx?src=87404813-31b7-406f-afb3-d2afcb52cac2.jpg&amp;width=333" title="Backstage - επεισόδιο 7 - O Γιώργος Μέρλος και τα στρογγυλά γυαλιά του Καβάφη"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Backstage - επεισόδιο 7 - O Γιώργος Μέρλος και τα στρογγυλά γυαλιά του Καβάφη"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Backstage " style="width: 72px; height: 18px;"><canvas width="87" height="17" style="width: 87px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Backstage </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="επεισόδιο " style="width: 66px; height: 18px;"><canvas width="81" height="17" style="width: 81px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>επεισόδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="7 " style="width: 13px; height: 18px;"><canvas width="28" height="17" style="width: 28px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>7 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="O " style="width: 13px; height: 18px;"><canvas width="28" height="17" style="width: 28px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>O </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Γιώργος " style="width: 56px; height: 18px;"><canvas width="71" height="17" style="width: 71px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Γιώργος </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Μέρλο.." style="width: 51px; height: 18px;"><canvas width="66" height="17" style="width: 66px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Μέρλο..</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Backstage - επεισόδιο 7 - O Γιώργος Μέρλος και τα στρογγυλά γυαλιά του Καβάφη</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=_iynt6_w_z3_e_z_q%3d" rel="/tv/imgHandler.ashx?src=de03bf31-1c33-451e-8933-4b53681b2295.jpg&amp;width=333" title="Backstage - επεισόδιο 7 - Λάκης Γαβαλάς - εν δράσει"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Backstage - επεισόδιο 7 - Λάκης Γαβαλάς - εν δράσει"></a></div>
+    <div class="hlistcaption" style="width:315px; border-right:solid 1px #282521;">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Backstage " style="width: 72px; height: 18px;"><canvas width="87" height="17" style="width: 87px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Backstage </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="επεισόδιο " style="width: 66px; height: 18px;"><canvas width="81" height="17" style="width: 81px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>επεισόδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="7 " style="width: 13px; height: 18px;"><canvas width="28" height="17" style="width: 28px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>7 </cufontext></cufon><cufon class="cufon cufon-canvas" alt="- " style="width: 10px; height: 18px;"><canvas width="25" height="17" style="width: 25px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>- </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Λάκης " style="width: 44px; height: 18px;"><canvas width="59" height="17" style="width: 59px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Λάκης </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Γαβαλάς " style="width: 58px; height: 18px;"><canvas width="73" height="17" style="width: 73px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Γαβαλάς </cufontext></cufon><cufon class="cufon cufon-canvas" alt="-.." style="width: 14px; height: 18px;"><canvas width="29" height="17" style="width: 29px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>-..</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Backstage - επεισόδιο 7 - Λάκης Γαβαλάς - εν δράσει</div>
+      </div>
+    </div>
+  </div>
+  <div style="float:left; width:316px; height:250px; overflow:hidden; position:relative; background:url('/web/20120106063344im_/http://www.antenna.gr/tv/images/46_cycle_four_24.gif') no-repeat center center">
+    <div class="hlist"><a class="himg" href="/web/20120106063344/http://www.antenna.gr/webtv/watch?cid=5_a%2favd_w5_d_z4%3d" rel="/tv/imgHandler.ashx?src=7661003b-c3d9-42b3-b309-b09f054f1f8e.jpg&amp;width=333" title="Backstage – επεισόδιο 7"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" alt="Backstage – επεισόδιο 7"></a></div>
+    <div class="hlistcaption">
+      <div style="padding:10px"><span class="font14txt cufonbottom"><cufon class="cufon cufon-canvas" alt="Backstage " style="width: 72px; height: 18px;"><canvas width="87" height="17" style="width: 87px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Backstage </cufontext></cufon><cufon class="cufon cufon-canvas" alt="– " style="width: 4px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>– </cufontext></cufon><cufon class="cufon cufon-canvas" alt="επεισόδιο " style="width: 66px; height: 18px;"><canvas width="81" height="17" style="width: 81px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>επεισόδιο </cufontext></cufon><cufon class="cufon cufon-canvas" alt="7" style="width: 9px; height: 18px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>7</cufontext></cufon></span><div style="padding-top:5px" class="greytxt font11txt">Backstage – επεισόδιο 7</div>
+      </div>
+    </div>
+  </div>
+</div></div>
+</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+    if (readCookie('tabholder')) {
+        tg1.changeTab(readCookie('tabholder'));
+    } else {
+        tg1.changeTab(1);
+    };
+</script>
+</div>
+<!-- bottom promo area-->
+
+
+<script type="text/javascript">
+    if (Cufon) {
+        Cufon.replace('.ftitle', { fontSize: '18px' });
+    }
+</script>  
+
+<div id="footer">
+<div class="inside">
+<ul>
+<span class="ftitle"><cufon class="cufon cufon-canvas" alt="Sitemap" style="width: 54px; height: 18px;"><canvas width="65" height="17" style="width: 65px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Sitemap</cufontext></cufon></span>
+<li style="margin-top:10px;"><a href="/web/20120106063344/http://www.antenna.gr/tv/">Αρχική</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/shows">Εκπομπές</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/schedule">Πρόγραμμα</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/webtv/">Web TV</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/webtv/plus">Web TV Plus</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/webtv/archive">Web TV Αρχείο</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.ant1online.gr/">News</a></li>
+ </ul>
+</div>
+
+<div class="inside">
+<ul>
+<span class="ftitle"><cufon class="cufon cufon-canvas" alt="Υπηρεσίες" style="width: 65px; height: 18px;"><canvas width="77" height="17" style="width: 77px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Υπηρεσίες</cufontext></cufon></span>
+<li style="margin-top:10px;"><a href="/web/20120106063344/http://www.antenna.gr/webtv/advertise">Διαφήμιση</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/workwithus">Εργασία</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/webtv/contact">Επικοινωνία</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/webtv/terms">Οροι Χρήσης</a></li>
+
+</ul>
+</div>
+
+<div class="inside">
+<ul>
+<span class="ftitle"><cufon class="cufon cufon-canvas" alt="Links" style="width: 35px; height: 18px;"><canvas width="47" height="17" style="width: 47px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Links</cufontext></cufon></span>
+<li style="margin-top:10px;"><a href="https://web.archive.org/web/20120106063344/http://www.antennasatellite.gr/">ANT1 Satellite</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.antennapacific.gr/">ANT1 Pacific</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.antennaeurope.gr/">ANT1 Europe</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.antennagroup.gr/">ANT1 Group</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://972.gr/">ANT1 Radio</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://spoudes-mme.antenna.gr/">ANT1 Σπουδές ΜΜΕ</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.metingreece.com/">The Metropolitan Opera in Greece</a></li>
+</ul>
+</div>
+
+<div class="inside">
+<ul>
+<span class="ftitle"><cufon class="cufon cufon-canvas" alt="Χρήσιμα" style="width: 53px; height: 18px;"><canvas width="64" height="17" style="width: 64px; height: 17px; top: 0px; left: -3px;"></canvas><cufontext>Χρήσιμα</cufontext></cufon></span>
+<li style="margin-top:10px;"><a href="/web/20120106063344/http://www.antenna.gr/tv/about">About us</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/frequencies">Συχνότητες</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/press">Δελτία Τύπου</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.antennagroup.gr/www/press/pressRelase/185289.aspx">Διαγωνισμοί</a></li>
+<li><a href="/web/20120106063344/http://www.antenna.gr/tv/casting">Casting</a></li>
+<li><a href="https://web.archive.org/web/20120106063344/http://www.esr.gr/arxeion-xml/pages/esr/esrSite/view?section=af5a909fc0ab1e7683571826e98263e5&amp;categ=e1cb4e8562df1e7983571826e98263e5&amp;last_clicked_id" target="_blank">Εθνικό Συμβούλιο Ραδιοτηλεόρασης (ΕΣΡ)</a></li>
+</ul>
+</div>
+
+<div class="social">
+ <div style="width:100px; margin:0px auto; height:48px; padding-top:40px;">
+        <a title="Find us on Facebook" href="https://web.archive.org/web/20120106063344/http://www.facebook.com/Ant1TV#!/pages/ANT1/56484855901?ref=ts" target="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_fcbk.png" align="left"></a>
+        <a title="Follow us on Twitter" href="https://web.archive.org/web/20120106063344/http://twitter.com/ant1tv" target="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_twitter.png" align="right"></a>
+    </div>
+    <div style="width:100px; margin:0px auto; padding-top:10px;">
+        <a title="Watch ANT1 on YOUTUBE" href="https://web.archive.org/web/20120106063344/http://www.youtube.com/AntennaGR" target="_blank"><img src="/web/20120106063344im_/http://www.antenna.gr/tv/images/btn_youtube.png"></a>
+    </div>
+</div>
+<div class="clearer"><img src="/web/20120106063344im_/http://www.antenna.gr/webtv/images/sp.gif" width="1" height="1"></div>
+</div>
+<script type="text/javascript" src="//web.archive.org/web/20120106063344js_/http://secure-uk.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+    var pvar = { cid: "gr-antenna", content: "0", server: "secure-uk" };
+    var trac = nol_t(pvar);
+    trac.record().post();
+</script>
+<noscript>
+<div>
+<img src="//web.archive.org/web/20120106063344im_/http://secure-uk.imrworldwide.com/cgi-bin/m?ci=gr-antenna&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+</div>
+</noscript>
+<script language="javascript" type="text/javascript">
+    addLoadEvent(function() {
+        try {
+            $('beFan').innerHTML = '<\iframe src="//web.archive.org/web/20120106063344/http://www.facebook.com/plugins/like.php?app_id=249811995054946&amp;href=http%3A%2F%2Fwww.facebook.com%2FAnt1TV%23%21%2Fpages%2FANT1%2F56484855901%3Fref%3Dts&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"><\/iframe>'
+            if ($('login-btn')) {
+                $('login-btn').onclick = showLogin;
+                $('login-btn').className = 'greytxt font12txt';
+                $('login-btn').style.cursor = 'pointer';
+            }
+            var menu = document.getElementsByName("hover");
+            for (var xst = 0; xst < menu.length; xst++) {
+                if (menu[xst].id == '') {
+                    menu[xst].onmouseover = toggleUp;
+                }
+                else {
+                    menu[xst].onmousemove = function() { toggleDown(this.id) };
+                    menu[xst].onmouseover = function() { toggleDown(this.id) };
+                    menu[xst].onmouseout = toggleUp;
+                };
+            };
+        } catch (Error) { };
+    });
+</script>
+
+
+</div>
+
+&nbsp;
+
+
+
+
+</body>

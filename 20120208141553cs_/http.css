@@ -1,0 +1,781 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+
+html {
+    color: #FFF;
+    font-family: Arial;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    min-width: 950px;
+    margin: 20px 0px 0px 0px;
+    background: #000 url(/web/20120208141553im_/http://static.ant1.gr/tv/images/all_shows_bg.jpg) no-repeat center top;
+    height: 100%;
+    position: relative;
+}
+
+.menu_holder {
+    height: 0px;
+    background: transparent;
+    width: 950px;
+    display: block;
+    position: absolute;
+    top: 148px;
+    left: 0px;
+    z-index: 1001;
+    overflow: hidden;
+}
+
+.wrap {
+    width: 950px;
+    margin: 0px auto;
+    position: relative;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -142px;
+}
+
+#stickyfooter {
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+img {
+    border: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+h1,
+h2,
+h3 {
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.header {
+    clear: both;
+    width: 950px;
+    height: 136px;
+    position: relative;
+    margin: 0px auto;
+}
+
+.headerLogo {
+    float: left;
+    width: 135px;
+    height: 135px;
+    position: relative;
+    overflow: hidden;
+}
+
+.headerwrapper {
+    float: right;
+    width: 805px;
+    margin-top: 10px;
+}
+
+.lalign {
+    float: left;
+}
+
+.ralign {
+    float: right;
+}
+
+.clearer {
+    clear: both;
+}
+
+.menu {
+    clear: both;
+}
+
+.menuitem {
+    float: left;
+}
+
+.menusep {
+    width: 1px;
+    height: 28px;
+    background: #333;
+}
+
+.color {
+    background: #DDD;
+}
+
+.color2652 {
+    background: #15238c;
+}
+
+.color2654 {
+    background: #FF0000;
+}
+
+.color2657 {
+    background: #B6007A;
+}
+
+.color2663 {
+    background: #d84c00;
+}
+
+.color2658 {
+    background: #FF0000;
+}
+
+.color2714 {
+    background: #305e0b;
+}
+
+.color2653 {
+    background: #305e0b;
+}
+
+.color2941 {
+    background: #d84c00;
+}
+
+.font {
+    color: #DDD;
+}
+
+.font2652 {
+    color: #15238c;
+}
+
+.font2654 {
+    color: #FF0000;
+}
+
+.font2657 {
+    color: #B6007A;
+}
+
+.font2663 {
+    color: #d84c00;
+}
+
+.font2658 {
+    color: #990000;
+}
+
+.font2714 {
+    color: #305e0b;
+}
+
+.font2653 {
+    color: #305e0b;
+}
+
+.font2941 {
+    color: #d84c00;
+}
+
+.functionalLikinks {
+    color: #1bc4f4;
+}
+
+.blacktxt {
+    color: #000;
+}
+
+.greytxt {
+    color: #969a9B;
+}
+
+.whitetxt {
+    color: #FFF;
+}
+
+.font11txt {
+    font-size: 11px;
+}
+
+.font12txt {
+    font-size: 12px;
+}
+
+.font13txt {
+    font-size: 13px;
+}
+
+.font14txt {
+    font-size: 14px;
+}
+
+.font15txt {
+    font-size: 15px;
+}
+
+.font16txt {
+    font-size: 16px;
+}
+
+.font18txt {
+    font-size: 18px;
+}
+
+.font20txt {
+    font-size: 20px;
+}
+
+.font22txt {
+    font-size: 22px;
+}
+
+.font24txt {
+    font-size: 24px;
+}
+
+.font32txt {
+    font-size: 32px;
+}
+
+.boldfont {
+    font-weight: bold;
+}
+
+.mainteasertitle {
+    font-size: 25px;
+    letter-spacing: -1px;
+}
+
+.smalldays {
+    float: left;
+    margin: 0px;
+    width: 17px;
+    text-align: center;
+}
+
+.selecteddiv {
+    background: #1c93b5;
+    font-weight: bold;
+}
+
+.daysholder {
+    width: 290px;
+}
+
+#weekmove {
+    width: 2030px;
+    top: 0px;
+    left: 0px;
+    position: absolute
+}
+
+.weekWrap {
+    position: relative;
+    width: 290px;
+    height: 180px;
+    margin: 0px auto;
+    overflow: hidden
+}
+
+#loginBox {
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/LoginBG.png') no-repeat;
+    width: 318px;
+    height: 0px;
+    position: absolute;
+    top: 90px;
+    left: 650px;
+    z-index: 10002;
+    display: none;
+    overflow: hidden;
+}
+
+.logininput {
+    width: 200px;
+    background: #7D7D7D;
+    border: solid 1px #000;
+    height: 16px;
+    padding: 4px;
+    overflow: hidden;
+    color: #FFF;
+}
+
+.logininput:focus {
+    width: 200px;
+    border-radius: 5px;
+    background: #7D7D7D;
+    border: solid 1px #CCC;
+}
+
+.loginBT {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #073947 #073947 #062d38 #073947;
+    background-color: #0c5b71;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 15px 3px 15px;
+    text-align: center;
+    height: 24px;
+}
+
+.datebgL {
+    float: left;
+    height: 31px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/dateShow_bg.png') no-repeat;
+}
+
+.datebgR {
+    float: left;
+    width: 10px;
+    height: 31px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/dateShow_bg.png') no-repeat -490px 0px;
+}
+
+#footer {
+    clear: both;
+    padding: 20px 0px 70px 0px;
+    width: 950px;
+}
+
+#footer .inside {
+    float: left;
+    width: 190px;
+    height: 198px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/footbg_190.png');
+    margin: 0px 7px 0px 0px
+}
+
+#footer .social {
+    float: left;
+    width: 162px;
+    height: 198px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/footbg_162_2.png');
+}
+
+#footer .inside ul {
+    list-style-type: none;
+    font-size: 14px;
+    padding: 20px 0px 4px 15px;
+}
+
+#footer .inside li {
+    font-weight: normal;
+    padding: 0px 0px 0px 10px;
+}
+
+#footer .inside li a {
+    color: #969a9B;
+    font-size: 12px;
+}
+
+.slider {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 250px;
+}
+
+.hlist {
+    position: absolute;
+    top: 0px;
+    left: -8px;
+    z-index: 1
+}
+
+.hlist img {
+    width: 333px;
+    height: 250px;
+}
+
+.hlistcaption {
+    position: absolute;
+    top: 175px;
+    left: 0px;
+    width: 316px;
+    height: 75px;
+    z-index: 2;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/1px_85.png')
+}
+
+.hlistcaptionTitle {
+    position: absolute;
+    top: 215px;
+    left: 0px;
+    width: 316px;
+    height: 35px;
+    z-index: 2;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/1px_85.png')
+}
+
+.tab {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0px auto;
+}
+
+#fblike img {
+    float: left;
+    margin: 0px 4px 0px 0px
+}
+
+#beFan {
+    float: left;
+}
+
+#banner728 {
+    width: 728px;
+    height: auto;
+    margin: 0px auto;
+}
+
+.showmenu,
+.showtitle {
+    font-size: 16px;
+}
+
+.showmenu a {
+    font-size: 16px;
+}
+
+.floatingw {
+    position: absolute;
+    left: 7px;
+    top: 5px;
+    height: 200px;
+    width: 920px;
+}
+
+.floatmenuwrap {
+    position: relative;
+    width: 948px;
+    height: 458px;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.floatcollumn {
+    width: 237px;
+    float: left;
+    position: relative;
+    margin-top: 20px;
+}
+
+.heading {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 5px 0px 0px 10px;
+    width: 180px;
+    height: 25px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/menutitles.gif');
+}
+
+.headmarg {
+    margin-top: 15px;
+}
+
+.floatcollumn a {
+    margin: 0px 0px 0px 25px;
+    font-size: 13px;
+    color: #CCC;
+}
+
+.floatcollumn a:hover {
+    text-decoration: underline;
+}
+
+.fteasers {
+    position: absolute;
+    top: 300px;
+    left: 10px;
+    height: 150px;
+    width: 908px;
+    overflow: hidden;
+}
+
+.teaserimg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 220px;
+    height: 124px;
+    overflow: hidden;
+    border: solid 1px #282521;
+}
+
+.floatingT {
+    float: left;
+    width: 220px;
+    height: 160px;
+    margin: 0px 10px 0px 0px;
+    position: relative
+}
+
+#mainTtools {
+    z-index: 10;
+    position: absolute;
+    top: 415px;
+    left: 0px;
+    height: 62px;
+    width: 700px;
+}
+
+#thumWrapper {
+    position: absolute;
+    top: 5px;
+    left: 50px;
+    width: 600px;
+    height: 50px;
+    z-index: 2;
+    overflow: hidden;
+}
+
+#thumbholder {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 48px;
+    z-index: 5;
+}
+
+.t_thumb {
+    float: left;
+    width: 120px;
+}
+
+.thumbsLArrow {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+
+.thumbsRArrow {
+    position: absolute;
+    top: 0px;
+    left: 668px;
+    z-index: 3;
+}
+
+.categoryLine {
+    width: 5px;
+    height: 45px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.t_title {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.t_time {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 200px;
+}
+
+.t_text {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 200px;
+}
+
+.t_meta {
+    position: absolute;
+    left: 0px;
+    top: 250px;
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.t_webtvtitle {
+    position: absolute;
+    top: 127px;
+    left: 2px;
+    background: #000;
+    padding: 4px;
+}
+
+.t_playbtn {
+    position: absolute;
+    top: 49px;
+    left: 74px;
+    width: 52px;
+    height: 52px;
+}
+
+.t_holder {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.t_minisite {
+    position: absolute;
+    top: 445px;
+    left: 860px;
+    width: 66px;
+    height: 20px;
+    z-index: 1000;
+}
+
+.brandedZones {
+    float: left;
+    width: 640px;
+    height: 508px;
+    position: relative;
+    overflow: hidden;
+}
+
+.brandedSlide {
+    position: relative;
+    width: 640px;
+    height: 127px;
+    cursor: pointer;
+}
+
+.brandedLogo {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    top: 5px;
+    left: 5px;
+}
+
+.brandedLogo img {
+    width: 140px;
+    height: 81px;
+}
+
+.brandedTitle {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    top: 140px;
+    left: 15px;
+}
+
+.brandedTHolder {
+    position: absolute;
+    width: 640px;
+    height: 90px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/FZ_Shadow.png');
+    top: 164px;
+    left: 0px;
+}
+
+.brandedImg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.brandedTText {
+    width: 400px;
+    /*margin:0px auto;padding-top:20px;*/
+    margin: 20px 0px 0px 20px;
+    font-weight: bold;
+}
+
+.teasertime {
+    font-size: 20px;
+}
+
+.teaserDesc {
+    text-shadow: 1px 1px 1px #000;
+}
+
+.mainTeaserIn {
+    float: left;
+    position: relative;
+    width: 950px;
+}
+
+.mainTeaserImg {
+    clear: both;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 950px;
+    z-index: 1;
+    background: #000 url(/web/20120208141553im_/http://static.ant1.gr/tv/images/46_cycle_four_24.gif) no-repeat center center;
+}
+
+.mainTeaserR {
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    width: 250px;
+    height: 495px;
+    background: url('/web/20120208141553im_/http://static.ant1.gr/tv/images/1px_85.png');
+    z-index: 2;
+    border-left: solid 1px #282521;
+}
+
+.mainTeaserRW {
+    top: 25px;
+    left: 25px;
+    width: 200px;
+    height: 470px;
+    margin: 0px auto;
+    position: absolute;
+}
+
+.activethumb {
+    border: solid 1px #c6c6c6;
+}
+
+.inactivethumb {
+    border: solid 1px #666;
+}
+
+/*
+     FILE ARCHIVED ON 14:15:53 Feb 08, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:03:29 Mar 10, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+/*
+playback timings (ms):
+  captures_list: 0.502
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.008
+  esindex: 0.009
+  cdx.remote: 5.625
+  LoadShardBlock: 83.199 (3)
+  PetaboxLoader3.datanode: 87.996 (4)
+  load_resource: 66.285
+  PetaboxLoader3.resolve: 42.954
+*/
